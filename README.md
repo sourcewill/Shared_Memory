@@ -8,6 +8,7 @@ gcc writer.c -o writer -lm -lrt -pthread
 ## Montando Reader
 ```
 gcc reader.c -o reader -lm -lrt -pthread
+```
 
 ## Executando Writer
 ```
